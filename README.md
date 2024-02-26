@@ -1,1 +1,1 @@
-# Amazon_clone_with_shrada_kaphra
+# Amazon_clone
